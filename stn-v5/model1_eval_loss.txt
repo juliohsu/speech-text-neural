@@ -1,0 +1,2 @@
+Total Loss: 6922.3166
+Mean Loss: 8.5041

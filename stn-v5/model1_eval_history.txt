@@ -1,0 +1,6 @@
+
+[2025-04-09 11:41:18.570281] EVALUATION COMPLETED
+Total Loss: 6922.3166
+Mean Loss: 8.5041 over 814 batches
+Time: 22.05s
+
